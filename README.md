@@ -1,4 +1,4 @@
-# FCN-KERAS
+# Fully Convolutional Network-(FCN) : 
 
 
 What is Semantic Segmentation?
