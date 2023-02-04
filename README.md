@@ -16,4 +16,4 @@ FCNs, or Fully Convolutional Networks, are a form of architecture that is primar
 ![1_5vIoi8Gf7ptJZ94SpeYwqg](https://user-images.githubusercontent.com/99510125/204311624-90eef90d-ec03-4844-97a3-9c36eff52960.png)
 
 
-For more information : https://www.linkedin.com/pulse/from-image-classification-semantic-segmentation-fully-ayoub-kirouane/?trackingId=g7dmS9iPRdms%2Flqvsow4tQ%3D%3D
+For more information : https://www.linkedin.com/pulse/from-image-classification-semantic-segmentation-fully-ayoub-kirouane
